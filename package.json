@@ -10,8 +10,7 @@
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
   },
-  "dependencies": {
-    "@google/genai": "^1.29.0",    
+  "dependencies": {       
     "@vitejs/plugin-react": "^5.0.4",    
     "clsx": "^2.1.1",        
     "lucide-react": "^0.546.0",
